@@ -10,7 +10,7 @@ This is also critical because I don't have a partner now, and it's healthy requi
 Make masturbation models and practice them.
 
 ## Usage
-* Just follow steps in the (system)[model/system.ipynb]
+* Follow the steps in [system](model/system.ipynb)
 
 ### Resources
 * [Bellesa](http://bullandbearmcgill.com/bellesa-unapologetically-bold-company-making-inroads-adult-entertainment-industry/)  goal and stance
