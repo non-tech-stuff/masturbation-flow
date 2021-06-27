@@ -15,4 +15,5 @@ Make masturbation models and practice them.
 ### Resources
 * [Bellesa](http://bullandbearmcgill.com/bellesa-unapologetically-bold-company-making-inroads-adult-entertainment-industry/)  goal and stance
 * [Michelle Shnaidman](https://ca.linkedin.com/in/michelle-shnaidman-695850bb), CEO at Bellesa
+* [Erotic Art](https://plato.stanford.edu/entries/erotic-art/) - Plato.Stanford
 
