@@ -8,3 +8,6 @@ This is also critical because I don't have a partner now, and it's healthy requi
 
 # How
 Make masturbation models and practice them.
+
+# Usage
+* Just follow steps in the (system)[model/system.ipynb]
